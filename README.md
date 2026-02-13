@@ -87,7 +87,9 @@ Conozco regulaciones, pasarelas de pago y contextos de negocio de distintos merc
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Pagos** | Mercado Pago, Transbank, AFIP (SOAP/WSDL), facturación electrónica |
+| **Pagos** | Mercado Pago, Transbank, AFIP (SOAP/WSDL), SII (Chile), facturación electrónica |
+| **E-commerce** | MercadoLibre API, Shopify |
+| **Logística** | Correos de Chile, BlueExpress, Starken |
 | **Mapas** | Google Maps API, Leaflet |
 | **Comunicación** | Firebase (Auth, FCM), WhatsApp Web.js, Nodemailer, EmailJS |
 | **Documentos** | PHPSpreadsheet, DomPDF, jsPDF, html2canvas, generación de reportes |
@@ -122,9 +124,14 @@ Conozco regulaciones, pasarelas de pago y contextos de negocio de distintos merc
 
 ## 📈 Actividad en GitHub
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=juansep96&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/juansep96)
-[![Streak](https://streak-stats.demolab.com/?user=juansep96&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=juansep96&layout=compact&theme=dark&hide_border=true)](https://github.com/juansep96)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juansep96&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas" />
+  <img src="https://streak-stats.demolab.com/?user=juansep96&theme=github-dark&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansep96&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 ---
 
