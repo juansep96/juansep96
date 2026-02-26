@@ -23,7 +23,7 @@
 
 ## Sobre mí
 
-Desarrollador **Full Stack** con **5+ años** de experiencia construyendo aplicaciones web de principio a fin. No solo escribo código: entiendo negocio, priorizo entregas y comunico en tiempo real. He liderado features en **e-commerce**, **ERPs**, **sistemas gubernamentales**, **apps móviles** y **soluciones con IA** para clientes en retail, salud, logística y sector público.
+Desarrollador **Full Stack** con **10+ años** de experiencia construyendo aplicaciones web de principio a fin. No solo escribo código: entiendo negocio, priorizo entregas y comunico en tiempo real. He liderado features en **e-commerce**, **ERPs**, **sistemas gubernamentales**, **apps móviles** y **soluciones con IA** para clientes en retail, salud, logística y sector público.
 
 ### Alcance internacional
 
