@@ -8,7 +8,7 @@
 
 <br />
 
-🇦🇷 🇨🇱 🇪🇸 🇬🇹 🇵🇪 · Experiencia internacional en 5 países · +50 proyectos en producción · Laravel & React specialist
+ +50 proyectos en producción · Laravel & React specialist
 
 <br />
 
@@ -41,8 +41,7 @@ Conozco regulaciones, pasarelas de pago y contextos de negocio de distintos merc
 |:--------|:------|
 | Proyectos entregados | **+50** |
 | Países con clientes | **5** |
-| Empresas | Softweare, Innova Developers |
-| Dominios | E-commerce, ERP/CRM, GovTech, HealthTech, IA |
+| Dominios | E-commerce, ERP/CRM, GovTech, IA |
 
 ---
 
